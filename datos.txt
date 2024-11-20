@@ -1,0 +1,2 @@
+Ruta del dataset usado, el enlace no es necesario para el funcionamiento de la app, ya que lo importamos directamente de la libreria de kaggle
+https://www.kaggle.com/datasets/shashanknecrothapa/ames-housing-dataset
